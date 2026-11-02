@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+diagnostic_report_*.json
+diagnostic_report_*.html
+.vscode/
+.claude/
